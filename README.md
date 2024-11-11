@@ -2,8 +2,6 @@
  I am Dila 👋
 
  A passionate frontend developer from Castrop-Rauxel.
-<!--
-**DILATANHAN/dilatanhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dilaguzel1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilatanhan) 
@@ -19,10 +17,6 @@
 [![](https://visitcount.itsvg.in/api?id=dilatanhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently learning frontend developer,react native developer,backend developer ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
